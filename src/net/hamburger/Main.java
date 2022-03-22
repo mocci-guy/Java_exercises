@@ -3,6 +3,6 @@ package net.hamburger;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	// Bla Bla Bla
     }
 }
